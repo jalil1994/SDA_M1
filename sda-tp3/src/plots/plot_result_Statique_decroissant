@@ -1,0 +1,5 @@
+plot  'Tas_Binaire_statique_time_java_Decroissant.plot' using 1:3 w lines title "Amortized JAVA Tas Statique Decroissant"
+
+plot 'Tas_Binaire_statique_memory_java_Decroissant.plot' using 1:2 w lines title "Espace memoire inutilise Tas statique Decroissant"
+
+plot 'Tas_Binaire_statique_copy_java_Decroissant.plot' using 1:2 w boxes title "Nombre de copies Tas Statique Decroissant"

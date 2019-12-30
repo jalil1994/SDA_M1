@@ -1,0 +1,118 @@
+Experience 1 :
+
+#Compilation en C
+
+Total cost: 39912305.000000
+Average cost: 39.912305
+Variance: 875007768392.007910
+Standard deviation: 935418.499064
+
+# Compilation et exécution en C++:
+
+Total cost :6.15466e+07
+Average cost :61.5466
+Variance :7.07068e+11
+Standard deviation :840874
+
+# Compilation et exécution en Java:
+
+Total cost : 47651259
+Average cost : 47.651259
+Variance :15528901939426.357515714919
+Standard deviation :3940672.777512281201779842376708984375
+
+# Exécution en Python
+
+Total cost : 449557304.382
+Average cost : 449.557304382
+Variance :1.50280245884e+12
+Standard deviation :1225888.43654
+
+
+
+
+Experience 2 :
+
+
+
+
+# Compilation et exécution en C:
+
+Total cost: 40731505.000000
+Average cost: 40.731505
+Variance: 515855095623.944500
+Standard deviation: 718230.530975
+
+
+# Compilation et exécution en C++:
+
+
+Total cost :5.98249e+07
+Average cost :59.8249
+Variance :3.02038e+12
+Standard deviation :1.73792e+06
+
+# Compilation et exécution en Java:
+
+Total cost : 53714226
+Average cost : 53.714226
+Variance :16883585825044.781925220924
+Standard deviation :4108964.081741866655647754669189453125
+
+# Exécution en Python
+
+Total cost : 449746370.316
+Average cost : 449.746370316
+Variance :4.9952117488e+11
+Standard deviation :706768.119598
+
+
+
+
+
+Experience 3 :
+
+
+
+11928626@g210-2:~/Documents/sda-tp1$ # Compilation et exécution en C:
+
+Total cost: 37091523.000000
+Average cost: 37.091523
+Variance: 46113664249.218922
+Standard deviation: 214740.923555
+
+
+11928626@g210-2:~/Documents/sda-tp1$ # Compilation et exécution en C++:
+
+
+Total cost :5.78387e+07
+Average cost :57.8387
+Variance :7.07636e+11
+Standard deviation :841211
+
+11928626@g210-2:~/Documents/sda-tp1$ # Compilation et exécution en Java:
+
+Total cost : 53092967
+Average cost : 53.092967
+Variance :15452051057080.136855136911
+Standard deviation :3930909.6984133501537144184112548828125
+
+11928626@g210-2:~/Documents/sda-tp1$ # Exécution en Python
+
+Total cost : 442247867.584
+Average cost : 442.247867584
+Variance :5.7223386189e+11
+Standard deviation :756461.408064
+
+
+
+
+
+
+
+
+
+
+
+
+
